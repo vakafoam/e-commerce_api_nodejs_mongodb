@@ -1,0 +1,8 @@
+- create index.js
+- yarn add express mongoose dotenv nodemon
+# nodemon is a hot reloader
+# example - in start script: nodemon index.js
+- create a DB cluster on cloud.mongodb.com
+- - setup user and IP access, 
+- - Connect to DB by copying connection string ('Connect your app')
+    include user's password
